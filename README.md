@@ -1,4 +1,5 @@
-![CI](https://github.com/ir0nfelix/studentclass_restfull_docker/actions/workflows/ci.yml/badge.svg?branch=main)                                                      # Задание: Docker Monorepo
+[![CI Pipeline](https://github.com/ivanba1/studentclass_restfull_docker/actions/workflows/ci.yml/badge.svg?branch=example)](https://github.com/ivanba1/studentclass_restfull_docker/actions/workflows/ci.yml)                                                
+# Задание: Docker Monorepo
 
 > [!IMPORTANT]
 > **Это ветка с заданием (`main`).** 
