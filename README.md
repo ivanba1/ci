@@ -1,4 +1,6 @@
-[![CI Pipeline](https://github.com/ivanba1/studentclass_restfull_docker/actions/workflows/ci.yml/badge.svg?branch=example)](https://github.com/ivanba1/studentclass_restfull_docker/actions/workflows/ci.yml)                                                
+# StudentClass RESTful Docker
+
+[![Build and Push Docker Images](https://github.com/ivanba1/ci/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/ivanba1/ci/actions/workflows/ci.yml)
 # Задание: Docker Monorepo
 
 > [!IMPORTANT]
